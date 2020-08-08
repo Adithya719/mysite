@@ -58,6 +58,8 @@ h1{
   position: absolute;
   left: 200px;
   top: 230px;
+  padding-bottom:20px;
+  padding-right:20px;   
 }
 .top-cloud{
   position: absolute;
