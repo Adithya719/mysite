@@ -56,7 +56,7 @@ h1{
 }
 .bottom-cloud{
   position: absolute;
-  left: 200px;
+  left: 100px;
   top: 230px;
   padding-bottom:20px;
   padding-right:20px;   
@@ -64,7 +64,7 @@ h1{
 .top-cloud{
   position: absolute;
   top: 80px;
-  right: 300px;
+  right: 200px;
 }
 .ios{
       text-decoration: underline;
